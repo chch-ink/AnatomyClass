@@ -35,12 +35,12 @@
 
 ### 시냅스(synapse)
 
-* 사실 신경계통에서 주인공은 신호전달이 이루어지는 시냅스라고 할 수도 있습니다. 
+* 사실 신경계통에서 주인공은 신호전달이 이루어지는 시냅스라고 할 수도 있습니다.
 * 커넥톰(connectome)은 결국 모든 시냅스의 특성을 보겠다는 것이죠.
-* 시냅스를 투과전미경으로 관찰하면 시냅스 전 신경세포(presynaptic neuron)의 축삭말단(axon terminal)과 시냅스 후 신경세포(postsynaptic neuron)의 시냅스가시(synaptic spine)을 구별하여 볼 수 있습니다. 
+* 시냅스를 투과전미경으로 관찰하면 시냅스 전 신경세포(presynaptic neuron)의 축삭말단(axon terminal)과 시냅스 후 신경세포(postsynaptic neuron)의 시냅스가시(synaptic spine)을 구별하여 볼 수 있습니다.
   * 축삭말단에는 신경전달물질을 담고 있는 시냅스 소포(synaptic vesicle)을 많이 관찰할 수 있고, 미토콘드리아를 비롯한 각종 세포소기관도 보입니다.
-    * 시냅스 소포는 세포막과 융합하는 방식으로 담고 있던 신경전달물질을 시냅스로 내보냅니다. 
-  * 시냅스가시에는 수용체와 scaffolding 단백질이 모여있는 postsynaptic density(PSD)를 볼 수 있습니다. 
+    * 시냅스 소포는 세포막과 융합하는 방식으로 담고 있던 신경전달물질을 시냅스로 내보냅니다.
+  * 시냅스가시에는 수용체와 scaffolding 단백질이 모여있는 postsynaptic density(PSD)를 볼 수 있습니다.
     * 시냅스 가시를 뚜렷하게 가장 많이 볼 수 있는 세포는 소뇌에 있는 조롱박세포(purkinje neuron)입니다.
   * 시냅스가 시냅스후신경세포의 어느 부위에 연결되고 있느냐에 따라 종류를 나눌 수 있습니다.
     1. Soma에 있는 경우
