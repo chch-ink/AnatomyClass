@@ -14,10 +14,10 @@
 * 소화기의 GI tract은 원통형 관 모양으로 입부터 항문까지 이어져 있습니다.
 * GI tract은 일반적으로 4개층으로 구성되어 있습니다.
 
-1. Mucosa
-1. Submucosa
-1. Muscularis(Externa)
-1. Serosa
+    1. Mucosa
+    1. Submucosa
+    1. Muscularis(Externa)
+    1. Serosa
 
 * GI tract의 각 기관에서 Mucosa, Muscularis(Externa) 등등이 어떻게 다른지 알고,
 * 각 기관의 기능을 위한 특수한 세포, 구조 등이 있음을 알아두는 것이 좋습니다.
@@ -175,5 +175,24 @@
 
 ### 간
 
-* 
-### 담낭
+* 간의 독특한 문맥구조에 대해 해부학 시간에 배운 것을 다시 상기하길 바랍니다.
+    * 문맥 구조는 어떻게 기능하기 위한 것인지, 왜 그렇게 이루어졌는지 대해 고민해보세요.
+* 간동맥과 문맥으로 들어온 혈액은 중심정맥으로 향하고, 그 사이에는 간세포를 비롯한 다양한 세포들이 분포되어 있습니다.
+    1. 간세포(hepatocyte)
+    1. 쿠퍼세포(Kupffer cell)
+    1. 간별세포(Stellate cell, ITO cell)
+    1. 타원세포(oval cell)
+    1. 쓸개관세포(cholangiocyte)
+
+* 모세혈관의 특징: 굴모세혈관(sinosodial capillary)
+* 쓸개즙의 흐름
+    hepatocyte(bile canaliculi) - Bile canals of Hering - Bile ductule - interlobular bile duct - intrahepatic bile duct - Lt, Rt hepatic bile duct - common hepatic duct
+
+### 담낭(쓸개주머니)
+
+* 담낭은 담즙(bile juice)을 저장하고, 수분을 재흡수하여 농축하고, 샘창자로 배출하는 기능을 합니다.
+* GI tract의 hollow organ과 달리 submucosa가 없이, 3개의 층으로 쓸개벽이 이루어져 있습니다.
+* 다시 말하면 점막층의 고유판(lamina propria)과 바깥근육층이 붙어있습니다. 점막근육층(muscularis mucosae)도 없다는 의미입니다.
+* 점막층의 상피세포는 작은창자의 흡수성 상피세포(asorptive cell)과 유사하게 미세융모(microvilli)가 있습니다.
+* 작은창자의 내분비세포가 분비한 cholecytokinin의 자극을 받아 근육층이 수축하면, 저장되었던 bile juice는 cystic duct를 통해 배출됩니다.
+* Cystic duct는 간에서 나온 common hepatic duct와 합쳐져 common bile duct가 됩니다.
