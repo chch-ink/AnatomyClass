@@ -27,7 +27,7 @@
 
 ## 난포와 주변 세포의 발달
 
-* 단층일차난포(unilaminar primary follicle): 일차난모세포와 난포세포 사이 zona pellucida가 형성.
+* 단층일차난포(unilaminar primary follicle): 일차난모세포와 난포세포 사이 투명층(zona pellucida)가 형성.
 * 뭇층일차난포(multilaminar primary follicle): 난포세포가 과립층세포(granulosa cell)로 변화. 주변의 stromal cell이 난포막을 형성. 속난포막(theca interna)과 바깥난포막(theca externa). 이 중 속난포막에서 androstenedione(steroid계열, estradiol 전구물질)
 * 이차난포(secondary follicle): 과립층세포에서 생산된 난포액으로 인해 난포방(antrum, vesicle)을 형성되기 시작
 * 성숙난포(mature follicle): 양이 많아진 난포액으로 인해, 직경이 1cm이상 커짐. 이차난모세포를 둘러싸고 있는 과립층세포 구조를 부챗살관(corona radiata), 이것과 주변 과립층세포를 연결하는 구조를 난포세포더미(cumulus oophorus)라고 함.
@@ -39,15 +39,41 @@
 * 배란하고 나서 남은 난포에 과립층세포와 속난포막세포는 황체(corpus luteum)가 됩니다.
   1. 과립층황체세포: 과립층세포가 변형된 것. estradiol를 생산.
   1. 난포막황체세포: 속난포막세포가 변형된 것. 스테로이드(estradiol 전구물질, androdstenedione)를 생산. 또한 프로게스테론도 생산.
-  * 배란된 난자가 수정되고, 수정란이 착상되면 내분비 기능을 유지하기 위해(자궁 내막을 자극하기 위해) 4~5개월까지 더 유지됩니다.
+* 배란된 난자가 수정되고, 수정란이 착상되면 내분비 기능을 유지하기 위해(자궁 내막을 자극하기 위해) 4~5개월까지 더 유지됩니다.
   * 그렇지 못하면 10~12일 뒤에 퇴화되어 백체가 됩니다.
 * 배란되는 하나의 난포를 제외한 다른 난포들은 폐쇄 단계를 거칩니다.
 
-## 자궁관(난관, 나팔관)
+## 자궁관(난관, 나팔관, Fallopian tube)
 
 * 난소와 자궁 사이를 연결하고 있는 관입니다. 난소 쪽으로부터 자궁관깔대기(infundibulum), 자궁관팽대(ampulla), 자궁관잘록(isthmus), 자궁벽부분(uterine part)라고 구분해 부릅니다.
-## 자궁의 주기별 조직학
+* 난관의 벽은 점막(mucosa), 근육층(muscularis), 장막(serosa) 층으로 구분됩니다.
+  1. 점막: 단층원주상피와 고유판으로 구성. 단층원주상피에는 섬모세포(ciliated cell)와 분비못세포(secretory peg cell)이 있음. 섬모세포의 섬모는 난소에서 자궁 쪽으로 움직임. 이 움직임은 난모세포와 수정란의 이동을 돕고, 정자의 이동을 방해함.
+  1. 근육층: 속돌림층(inner circular), 바깥세로층(outer longitudinal)
+  1. 장막: 결합조직과 중피로 구성. 중피를 mesosaliphinx라고 부르기도 함.
 
+## 수정
+
+* 자궁관의 팽대부에서 주로 수정이 이루어집니다. 이 부분은 Junqueira 책의 서술이 모호하고, 틀린 부분이 있습니다.
+
+1. 정자와 부챗살관 세포(corona radiata의 granulosa cell)의 접촉 후 안쪽으로 이동
+1. 첨단체반응(acrosome reaction): 투명층(zona pellucida)에 닿은 정자가 투명층을 뚫고 들어감(hyaluronidase과 acrosin의 작용)
+1. 정자와 난모세포막의 융합: 투명층과 난포세포막 사이 공간(난황주위공간)에서 정자와 난모세포의 세포막이 융합됨. 단 하나의 정자만 융합될 수 있음.
+    1. 신속차단(Fast block): 세포막이 융합된 순간 long depolarization이 발생. 다른 정자의 융합을 억제.
+    1. 겉질반응(cortical reaction): 난모세포의 ER등에서 칼슘이온 방출. 그로인해 vesicle release(protease 함유). 난황주위공간의 정자의 접근을 방해함.
+    1. 투명대 반응(zona reaction): 겉질반응으로 분비된 효소(protease)로 인해 진행. 난황주위방벽 형성. 정자가 투명대를 아예 통과 못함.
+
+## 자궁
+
+* 자궁벽은 안쪽에서부터 자궁내막(endometrium), 자궁근육층(myometrium), 자궁바깥막(perimetrium)으로 구성되어 있습니다.
+* 이 중 자궁내막에 대해 자세히 살펴 봅니다.
+
+### 자궁내막
+
+* 자궁내막은 기능층(functional layer)과 바닥층(basal layer)로 크게 구분할 수 있습니다. 이 중 월경주기별 변화가 심한 곳이 기능층입니다.
+
+1. 증식기
+1. 분비기
+1. 탈락기 
 ## 자궁목(경부)
 
 ## 젖샘
