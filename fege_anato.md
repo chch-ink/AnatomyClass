@@ -115,4 +115,4 @@
 * 소음순을 기준으로 바깥(lateral)은 외피, 안쪽(medial)은 비각질화중층편평상피(non-keratinized SSE)입니다.
 * Bulb of vestibule을 소음순이 덮고 있는 형태이며, 소음순 사이에 질 입구(vaginal opening), 요도 출구(urethral opening)가 있습니다.
 * 질 입구 양쪽에는 greater vestibular gland의 opening이, 요도 양쪽에는 para-urethral gland의 opening이 있습니다. 윤활점액을 분비하는 샘 조직입니다.
-* Greater vestibular gland - bulbourethral gland, para-urethral gland - prostate 로 상동이지만, 여성의 경우 깊은샅주머니보다 표면에 있고, 남성의 경우에는 깊은샅주머니보다 깊은 곳에 위치하고 있다는 점이 다릅니다.
+* Greater vestibular gland - bulbourethral gland, para-urethral gland - prostate 로 상동이지만, 여성의 경우 깊은샅주머니보다 표면에 있고, 남성의 경우에는 깊은샅주머니보다 깊은 곳에 위치하고 있다는 점이 다릅니다.
