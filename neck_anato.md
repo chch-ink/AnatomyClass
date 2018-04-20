@@ -104,3 +104,40 @@
 * 발생학적으로 위에서 가슴샘을 따라 내려가는 과정을 거쳐야하니, 갑상샘 뒤가 아닌, 목의 위쪽이나 가슴샘 근처에서 부갑상샘이 발견되기도 합니다.
 
 ## 뒤목삼각
+
+* SCM과 trapezius 사이, clavicle위에 뒤목삼각이 형성됩니다.
+* 뒤목삼각은 omohypoid muscle에 의해 두 개의 삼각으로 나뉩니다.
+    1. Subclavian triangle: EJV이 관통함.
+    1. Occipital triangle
+
+### 더부신경
+
+* 뒤목삼각을 지나는 중요한 신경으로 더부신경이 있습니다.
+* spinal cord에서 기원한 더부신경은 jugular foramen을 통해 cranial cavity를 빠져나옵니다.
+* SCM과 Trapezius을 운동지배하기 위해 뒤목삼각을 지나, 등으로 갑니다.
+
+### 피부신경
+
+* cervical plexus(C1-C4)에서 기원한 피부신경은 감각지배하는 피부 위치에 따라 lesser occipital n., great auricular n., supraclavicular n. 가 있습니다. 이들은 모두 뒤목삼각의 occitpital triangle을 지나 표면으로 나옵니다.
+
+### 뒤목삼각의 깊은 근육
+
+* 깊은 근막을 지나 안쪽에는 모두 목척추 또는 머리뼈에 닿는 근육들이 있습니다. 여러분이 이미 배운 levator scapulae도 이 중 하나입니다.
+
+#### Scalene muscle
+
+* scalene muscle은 모두 목척추의 transerverse process과 rib I, II을 잇고 있습니다. 갈비뼈를 들어올 수 있기 때문에 호흡보조근(accessory muscle for breathing) 중 하나이기도 합니다.
+* ant. scalene과 middle scalene 사이로 brachial plexus와 subclavian a.가 지나갑니다.
+* 따라서 brachial plexus가 압박받을 수 있는 세 부위 중 하나가 scalene muscle입니다.
+    1. ant. scalene syndrome
+    1. costoclavicular syndrome: rib I과 clavicle
+    1. hyperabduction sysndrome: pectoralis minor
+
+#### Preverterbral muscle
+
+* cervical verbral 앞쪽은 근육들은 각 위치와 닿는 곳에 따라 다음과 같이 명명되었습니다.
+    1. Rectus capitis ant.
+    1. Rectus capitis lat.
+    1. Longus capitis
+    1. Longus colli
+
