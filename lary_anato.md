@@ -33,4 +33,46 @@
 * 교감신경절과 척수신경 사이의 교통가지에서 grey rami와 white rami가 있습니다. 절전 교감신경의 축삭이 있는 경우 white rami라고 합니다. 중추신경계의 축삭이기 때문에 white라고 기억해두면 좋겠죠. 반대로 절후 교감신경의 축삭만 있는 경우 grey rami라고 합니다. 따라서 cervical ganglion은 grey rami만 있습니다.
 * 이 부분은 교감신경절들의 해부학과 말초로 축삭이 퍼지는 방식에 대해 이해하기 좋은 부분이니 잘 알아둡시다.
 
+### Lymphatics
+
+* Subclavian vein으로 대형 림프관들이 합류됩니다. 특히 thoracic duct가 Lt. subclavian v.으로 합류합니다. thoracic duct는 abdomen, trunk를 포함한 몸 아래쪽 대부분의 림프가 올라오는 길입니다.
+* 그외 목에서 오는 jugular, 팔에서 오는 subclavian lymphatic trunk들도 subclavian v.으로 합류합니다.
+* 머리, 얼굴, 목에서 정맥을 따라 림프들이 들어오며, 각 위치에 따라 림프절들이 있습니다.
+* 목에서 생기는 종괴 중 림프절이 커져서 생기는 경우가 있고, 또한 림프절 자체가 악성 종양의 전이 통로가 되기 때문에 임상적으로 중요합니다.
+* 임상적으로 목의 림프절은 SCM과 hyoid bone, cricoid cartilage를 기준으로 구별합니다.
+    1. I: submental + submandibular triangle
+    1. II: I과 같은 높이의 SCM표면
+    1. III: SCM 표면(hyoid bone과 cricoid 사이 가상의 영역)
+    1. IV: SCM 표면(cricoid 아래쪽 가상의 영역)
+    1. V: post. triangle. Va는 occipital triangle과 비슷, Vb는 subclavian triangle과 비슷
+    1. VI: carotid + muscular triangle
+    1. VII: clavicle 아래쪽
+
+## 인두
+
+* 코 안의 공간과 입 안의 공간은 안쪽에서 서로 만납니다. 합져졌던 공간은 다시 식도와 기관으로 나뉘죠. 그 사이의 공간을 인두(pharynx)라고 부릅니다.
+* 인두는 다시 nasopharynx, oropharynx, laryngopharynx로 구별됩니다.
+* 인두의 뒤쪽에는 vertebral compartment가 있고 앞쪽에는 pterygoid, hyoid bone, thyroid cartilage 등이 있습니다.
+
+### 인두의 근육들
+
+* 인두 공간을 감싸고 있는 근육들에 대해 설명합니다. 소화기계통의  hollow organ의 근육층이 outer longitudinal, inner circular 였던것이 기억나나요? 인두에는 그 반대입니다.
+    1. Outer circular: Sup. Mid. Inf. constrictor
+    1. Inner longitudinal: Palato, Salphigo, Stylo pharyngeus
+
+* 여기에 입천장(soft palate)를 들어올리는 근육 tensor veli, levator veli palatini까지 있습니다.
+* 인두의 대부분의 근육은 vagus n.가 지배합니다. 그 중 예외 2개는 Tensor veli palatini(mandibular n.), stylopharyngeus(glossopharyngeus n.)입니다.
+
+#### constrictor
+
+* 세 개의 constrictor는 뒤에서 pharyngeal raphe에서 만납니다
+* 앞 쪽의 닿는 곳은 각각 다릅니다.
+    1. Sup. contrictor: pterygoid process, pteryomandibular raphe
+    1. Mid. contrictor: hyoid bone, Stylohyoid lig.
+    1. Inf. contrictor: thyroid cartilage의 obligue line
+
+#### inner longitudinals
+
+* 
+
 
