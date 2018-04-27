@@ -60,12 +60,12 @@
     1. Outer circular: Sup. Mid. Inf. constrictor
     1. Inner longitudinal: Palato, Salphigo, Stylo pharyngeus
 
-* 여기에 입천장(soft palate)를 들어올리는 근육 tensor veli, levator veli palatini까지 있습니다.
+* 여기에 입천장(soft palate)를 들어올리는 근육 tensor veli, levator veli palatini까지 있습니다. 이 근육들은 oral cavity에 대해 다시 나옵니다.
 * 인두의 대부분의 근육은 vagus n.가 지배합니다. 그 중 예외 2개는 Tensor veli palatini(mandibular n.), stylopharyngeus(glossopharyngeus n.)입니다.
 
 #### constrictor
 
-* 세 개의 constrictor는 뒤에서 pharyngeal raphe에서 만납니다
+* 세 개의 constrictor는 뒤에서 pharyngeal raphe에서 만납니다. 이름 그대로 pharynx를 조이는(constriction) 역할을 합니다. 
 * 앞 쪽의 닿는 곳은 각각 다릅니다.
     1. Sup. contrictor: pterygoid process, pteryomandibular raphe
     1. Mid. contrictor: hyoid bone, Stylohyoid lig.
@@ -73,6 +73,39 @@
 
 #### inner longitudinals
 
-* 
+* 3개의 근육 모두 constrictor 안쪽에 붙어있습니다. 따라서 pharynx를 들어올리는 역할을 합니다.
+* Stylopharyngeus는 Sup.와 Mid constrictor 사이 공간으로 뒤로 나가 styloid process이 닿고 있습니다.
+* Salphingo, Palatopharyngeus는 각각 tymphatic tube, soft palate에 닿아 있습니다. pharynx 공간 밖으로 나가지 않습니다.
 
+#### constrictor 사이 공간
+
+* Sup.와 Mid.사이: Oral cavity로 가는 혈관, 신경들, stylopharyngeus
+* Mid.과 Inf.사이: Larynx의 속공간으로 가는 혈관, 신경들
+* Inf.아래쪽: recurrent laryngeal n.
+
+#### 인두(Pharynx)의 속공간
+
+* Nasopharynx: pharyngotymphanic tube, pharyngeal tonsil
+* Oropharynx: Palatine tonsil(Palatoglossal arch와 palatopharyngeal arch사이), Lingual tonsil
+* Laryngopharynx: laryngeal inlet, esophagus와 communication
+* 특히 tonsil들의 위치를 잘봐두세요. 흔히 편도선염(tonsilitis)가 심할 때, 쉽게 눈으로 관찰할 수 있는 tonsil은 palatine tonsil입니다.
+
+#### 인두의 혈류
+
+* 아래에서 위로 긴 공간인 만큼 혈류, 감각신경지배가 높이에 따라 다릅니다.
+* 동맥 혈류
+    1. nasopharynx 상부: maxillary a.의 pharyngeal branch
+    1. nasopharynx, oropharynx: facial a.의 acending palatine a.와 ascending a.
+    1. laryngophaynx: inf. thyroid a.의 pharyngeal branch
+* 위쪽은 ext. carotid a.가 아래쪽은 subclavian a.가 공급하고 있죠.
+* 정맥 혈류
+    1. nasopharynx 인근: pterygoid plexus를 형성하여 maxillary v., facial v.등으로 환류된후, int. ext. jugular v.으로 합류됩니다.
+    1. oro, laryngo: int. jugular v.으로 직접 합류하는 pharyngeal plexus를 형성하여 환류됩니다.
+
+#### 인두의 감각
+
+* nasopharynx: maxillary n(V2)
+* oropharynx: glossopharygeal n(IX)
+* laryngopharynx: vagus n(X)
+* 
 
