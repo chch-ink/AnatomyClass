@@ -28,10 +28,10 @@
 
 ### Cervical ganglion
 
-* 목에는 paraverbebral sympathetic ganglion이 있습니다. 다시 말해 절후 교감신경의 세포체들이 모여있는 곳이 있다는 말이죠. 하지만 잘 알고 있다시피, cervical spinal cord에는 절전 교감신경이 없습니다. 교감신경은 thoracic 1~lumbar 2 수준에 존재합니다.
+* 목에는 paraverbebral sympathetic ganglion이 있습니다. 다시 말해 절후 교감신경의 세포체들이 모여있는 곳이 있다는 말이죠. 하지만 잘 알고 있다시피, cervical spinal cord에는 절전 교감신경이 없습니다. 교감신경은 thoracic 1~lumbar 2 수준에 존재합니다.
 * 따라서 목의 교감신경절과 척수신경(spinal nerve)사이에는 절전 교감신경의 축삭이 없고, 절후 교감신경의 축삭만 있습니다.
-* 교감신경절과 척수신경 사이의 교통가지에서 grey rami와 white rami가 있습니다. 절전 교감신경의 축삭이 있는 경우 white rami라고 합니다. 중추신경계의 축삭이기 때문에 white라고 기억해두면 좋겠죠. 반대로 절후 교감신경의 축삭만 있는 경우 grey rami라고 합니다. 따라서 cervical ganglion은 grey rami만 있습니다.
-* 이 부분은 교감신경절들의 해부학과 말초로 축삭이 퍼지는 방식에 대해 이해하기 좋은 부분이니 잘 알아둡시다.
+* 교감신경절과 척수신경 사이의 교통가지에서 grey rami와 white rami가 있습니다. 절전 교감신경의 축삭이 있는 경우 white rami라고 합니다. 중추신경계의 축삭이기 때문에 white라고 기억해두면 좋겠죠. 반대로 절후 교감신경의 축삭만 있는 경우 grey rami라고 합니다. 따라서 cervical ganglion은 grey rami만 있습니다.
+* 이 부분은 교감신경절들의 해부학과 말초로 축삭이 퍼지는 방식에 대해 이해하기 좋은 부분이니 잘 알아둡시다.
 
 ### Lymphatics
 
