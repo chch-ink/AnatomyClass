@@ -77,20 +77,20 @@
 * Stylopharyngeus는 Sup.와 Mid constrictor 사이 공간으로 뒤로 나가 styloid process이 닿고 있습니다.
 * Salphingo, Palatopharyngeus는 각각 tymphatic tube, soft palate에 닿아 있습니다. pharynx 공간 밖으로 나가지 않습니다.
 
-#### constrictor 사이 공간
+### constrictor 사이 공간
 
 * Sup.와 Mid.사이: Oral cavity로 가는 혈관, 신경들, stylopharyngeus
 * Mid.과 Inf.사이: Larynx의 속공간으로 가는 혈관, 신경들
 * Inf.아래쪽: recurrent laryngeal n.
 
-#### 인두(Pharynx)의 속공간
+### 인두(Pharynx)의 속공간
 
 * Nasopharynx: pharyngotymphanic tube, pharyngeal tonsil
 * Oropharynx: Palatine tonsil(Palatoglossal arch와 palatopharyngeal arch사이), Lingual tonsil
 * Laryngopharynx: laryngeal inlet, esophagus와 communication
 * 특히 tonsil들의 위치를 잘봐두세요. 흔히 편도선염(tonsilitis)가 심할 때, 쉽게 눈으로 관찰할 수 있는 tonsil은 palatine tonsil입니다.
 
-#### 인두의 혈류
+### 인두의 혈류
 
 * 아래에서 위로 긴 공간인 만큼 혈류, 감각신경지배가 높이에 따라 다릅니다.
 * 동맥 혈류
@@ -102,10 +102,61 @@
     1. nasopharynx 인근: pterygoid plexus를 형성하여 maxillary v., facial v.등으로 환류된후, int. ext. jugular v.으로 합류됩니다.
     1. oro, laryngo: int. jugular v.으로 직접 합류하는 pharyngeal plexus를 형성하여 환류됩니다.
 
-#### 인두의 감각
+### 인두의 감각
 
 * nasopharynx: maxillary n(V2)
 * oropharynx: glossopharygeal n(IX)
 * laryngopharynx: vagus n(X)
-* 
 
+## 후두
+
+* 후두란 laryngopharynx로 열린 laryngeal inlet에서부터, trachea전까지를 말합니다.
+
+### 후두의 연골들
+
+* 후두에는 큰 연골 3개와 작은 연골 3쌍이 있습니다.
+    1. 큰 연골: thyroid, cricoid, epiglottis
+    1. 작은 연골: arytenoid, corniculate, cuneiform
+* 이 중 큰 연골 3개와 arytenoid의 형태, 위치 등을 잘 봐두세요.
+* 특히 thyroid와 cricoid cartilage 사이는 표면해부학적인 면에서 위치가 중요합니다.
+
+#### Cricothyroidotomy
+
+* 음식물이나 다른 이물질 후두입구를 막고 있는 경우, 목에 다른 airway를 확보하는 방법입니다. cricoid과 thyroid cartilage 사이 공간으로 needle을 찔러넣어 공기가 통하도록하는 응급처치술 중 하나입니다.
+
+### 후두의 성대(vocal cord)
+
+* 후두는 공기가 통하는 통로이며, 여기에 바로 성대(vocal cord)가 있어 목소리의 높낮이를 조절할 수 있습니다.
+* 실제로 음의 높낮이를 조절하는 성대를 진성대(true vocal cord)라고 하며, 살짝 아래(inf)쪽에 있습니다. 연골 중에 arytenoid의 vocal process와 thyroid사이를 연결하고 있는 vocal ligament가 구성하고 있습니다.
+* 진성대의 위쪽에는 가성대(false vocal cord)가 있습니다. arytenoid와 thyroid 사이의 vestibular ligament가 구성하고 있습니다.
+* 후두를 coronal section 할 경우 모래시계처럼 생겼으며, 모래시계의 잘록한 부분에 진,가성대가 있습니다.
+    1. rima glottidis: true vocal cord 사이의 공기 통로
+    1. rima vestibuli: false vocal cord 사이의 공기 통로
+* 이 구조들은 기관을 삽관할때 중요한 구조이니, 잘 봐두도록 하세요.
+
+### 성대를 움직이는 근육들
+
+* 후두의 근육들은 성대의 크기를 조절하여 목소리를 내는데 도움을 주거나, 성대 입구를 막는 역할을 합니다.
+    1. Cricothyroid: cricoid cartilage와 thryroid cartilage를 잇고 있어, thyroid cartilage를 앞으로 당깁니다. true vocal cord가 길어지도록 합니다.(높은 소리)
+    1. vocalis: vocal ligament를 따라 있는 근육으로, 수축하면 true vocal cord의 장력이 약해집니다.(낮은 소리)
+    1. Transverse arytenoid: arytenoid를 감싸고 있어, 수축하면 rima glottidis가 좁아집니다.(phonation)
+    1. lateral crico-arytenoid: arytenoid의 muscular process를 앞쪽으로 잡아당겨, 수축하면  rima glottidis가 좁아집니다.(phonation)
+    1. Post. crico-arytenoid: 뒤쪽에서 arytenoid의 muscular process를 잡아당겨 true vocal cord가 열리도록합니다.(primary opener)
+    1. Oblique arytenoid: arytenoid를 감싼 후 quadrangular membrane을 따라 epiglottis까지 감쌉니다. 수축하면 laryngeal inlet이 닫히겠죠.
+    1. Thyro-arytenoid: true, false vocal cord를 바깥에서 감싸고 있는 조임근입니다.
+
+* 이 중 external branch of sup. laryngeal n. 의 지배를 받는 cricothyroid를 제외하고, 모두 recurrent laryngeal n.의 지배를 받습니다. recurrent laryngeal n.의 주행을 다시 떠올려보세요.
+* 후두의 감각은 vocal cord를 기준으로 위쪽은 internal branch of sup. laryngeal n.가, 아래쪽은 recurrent laryngeal n.가 담당합니다.
+* 안정상태에서 호흡 중 일때, 운동 중에 많은 공기가 필요할 때, 말을 할 때, 음식물을 삼킬때 등등 각각 상태별로 후두의 공간이 어떤 형태가 되는지, 어떤 근육들이 작용할지 생각해보세요.
+
+### 삼키기
+
+* 삼키는 과정은 후두 뿐만 아니라, 그 주변 근육들이 역동적으로 협조해야합니다.
+* 음식물은 혀-혀뿌리-입인두-후두인두-식도를 따라 내려갑니다. 9번과 10번 뇌신경이 이 과정의 감각과 운동에 관여합니다.
+
+### 후두의 혈류
+
+* 동맥: thyroid a.에서 분지됩니다.
+    1. sup. laryngeal a.: sup. thyroid a.에서 분지. internal branch of sup. laryngeal n.와 함께 thyrohyoid membrane을 뚫고 후두공간 안쪽으로 들어감.
+    1. inf. laryngeal a.: inf. thyroid a.에서 분지.
+* 정맥: 동맥과 마찬가지로 thyroid v.으로 환류
