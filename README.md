@@ -30,5 +30,5 @@
 1. [**방광과 요도**](/uro_anato.md)
 1. [**여성생식기관의 해부학**](/fege_anato.md)
 1. [**목의 해부학**](/neck_anato.md)
-1. [ ] [**인후두의 해부학**](/lary_anato.md)
+1. [**인후두의 해부학**](/lary_anato.md)
 1. [ ] [**뇌와 척수의 해부학**](/neuro_anato.md)
