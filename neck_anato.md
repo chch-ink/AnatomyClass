@@ -71,7 +71,7 @@
 * 앞목삼각의 근육은 hyoid bone을 기준으로 위에 있는 근육들과 아래에 있는 근육들로 나뉩니다.
 * Suprahyoid muscles
     1. Stylohyoid(VII)
-    1. Digastric : ant(VII), post(V3) belly
+    1. Digastric : ant(V3), post(VII) belly
     1. Mylohyoid(V3)
     1. Geniohyoid(C1)
 * Infrahyoid muscles(ansa cervicalis, C1-3)
